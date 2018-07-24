@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-VENDOR_PATH := device/xiaomi/tissot
+VENDOR_PATH := device/xiaomi/vendor/tissot
 
 TARGET_SPECIFIC_HEADER_PATH := $(VENDOR_PATH)/include
 
