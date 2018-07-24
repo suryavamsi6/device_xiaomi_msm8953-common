@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-VENDOR_PATH := device/xiaomi/msm8953-common
+VENDOR_PATH := device/xiaomi/tissot
 
 TARGET_SPECIFIC_HEADER_PATH := $(VENDOR_PATH)/include
 
